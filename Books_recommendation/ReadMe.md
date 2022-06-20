@@ -1,5 +1,5 @@
 
-## Recommendation Systems
+## Book Recommendation Model
 
 Data: https://www.kaggle.com/datasets/rxsraghavagrawal/book-recommender-system
 
