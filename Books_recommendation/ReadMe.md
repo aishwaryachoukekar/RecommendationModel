@@ -1,9 +1,9 @@
 
+## Recommendation Systems
+
 Data: https://www.kaggle.com/datasets/rxsraghavagrawal/book-recommender-system
 
 Reference: https://www.analyticsvidhya.com/blog/2021/06/build-book-recommendation-system-unsupervised-learning-project/
-
-#### Recommendation Systems
 
 Recommedations can be based on three types
 
