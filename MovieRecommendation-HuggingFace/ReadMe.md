@@ -18,8 +18,8 @@ Data Source: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?reso
   - Regex
 
 #### Ideology
-  - Model will recommend movies based on *genres* and *movie description*.
+  - Model will recommend movies based on **genres** and **movie description**.
   - Weighted score is considered of these two to assign to movies in database.
-  - Based on input movie name, bunch of similar movies is filtered based on similar genres. Each movie can have more than one genre. Count of similar genres is given weight of *60%* and the similarity score calculated for input movie description and filtered movies is given a weight of *40%*.
+  - Based on input movie name, bunch of similar movies is filtered based on similar genres. Each movie can have more than one genre. Count of similar genres is given weight of **60%** and the similarity score calculated for input movie description and filtered movies is given a weight of **40%**.
   - This final score is then ordered in descending order.
   - Top 10 movies based on these scores are then displayed as recommendations.
